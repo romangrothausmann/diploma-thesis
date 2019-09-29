@@ -1,3 +1,6 @@
 [submodule "TEM-holder"]
 	path = TEM-holder
 	url = https://github.com/romangrothausmann/TEM-holder
+[submodule "pressure"]
+	path = pressure
+	url = https://github.com/romangrothausmann/pressure
