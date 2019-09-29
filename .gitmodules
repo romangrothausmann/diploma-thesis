@@ -4,3 +4,6 @@
 [submodule "pressure"]
 	path = pressure
 	url = https://github.com/romangrothausmann/pressure
+[submodule "DA"]
+	path = DA
+	url = https://gitlab.com/romangrothausmann/DA.git
